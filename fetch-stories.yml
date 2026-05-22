@@ -3,11 +3,10 @@
 # ══════════════════════════════════════════════════════════════
 # Runs on schedule → fetches RSS → writes stories.json →
 # opens a Pull Request with a formatted story preview →
-# emails you via GitHub notification to approve or reject.
+# GitHub emails you to approve or reject.
 #
-# YOU approve by merging the PR.
-# YOU reject by closing the PR.
-# Merging automatically triggers the deploy workflow.
+# APPROVE → Merge the PR → site deploys live
+# REJECT  → Close the PR → next run fetches fresh stories
 # ══════════════════════════════════════════════════════════════
 
 name: "📰 Fetch Stories for Review"
@@ -41,18 +40,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      # ── 3. Run monitor.py ───────────────────────────────────
+      # ── 3. Run monitor.py (no AI) ───────────────────────────
       - name: Fetch RSS and generate stories.json
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: |
-          if [ -n "$ANTHROPIC_API_KEY" ]; then
-            echo "✨ Running with AI polish..."
-            python monitor.py
-          else
-            echo "📡 Running without AI (add ANTHROPIC_API_KEY secret to enable)..."
-            python monitor.py --no-ai
-          fi
+        run: python monitor.py --no-ai
 
       # ── 4. Build a readable PR description ──────────────────
       - name: Generate story preview for PR
@@ -60,9 +50,9 @@ jobs:
           python - << 'EOF'
           import json, pathlib
 
-          data   = json.loads(pathlib.Path("stories.json").read_text())
-          ts     = data.get("generated", "")[:16].replace("T", " ")
-          lines  = []
+          data  = json.loads(pathlib.Path("stories.json").read_text())
+          ts    = data.get("generated", "")[:16].replace("T", " ")
+          lines = []
 
           lines.append(f"## 📰 Culture & Pulse — Stories Ready for Review")
           lines.append(f"*Generated: {ts} UTC*")
@@ -70,7 +60,7 @@ jobs:
           lines.append("---")
           lines.append("")
           lines.append("### ✅ Approve → Merge this PR")
-          lines.append("### ❌ Reject → Close this PR (next run fetches fresh stories)")
+          lines.append("### ❌ Reject  → Close this PR (next run fetches fresh stories)")
           lines.append("")
           lines.append("---")
           lines.append("")
@@ -80,7 +70,7 @@ jobs:
           for i, s in enumerate(data.get("stories", []), 1):
               lines.append(f"### {i}. [{s['tag'].upper()}] {s['title']}")
               lines.append(f"> {s['excerpt']}")
-              lines.append(f"📅 {s['date']}  |  🔗 [{s.get('source','Source')}]({s['link']})")
+              lines.append(f"📅 {s['date']}  |  🔗 [{s.get('source', 'Source')}]({s['link']})")
               lines.append("")
 
           lines.append("---")
@@ -94,7 +84,7 @@ jobs:
           print("PR body written.")
           EOF
 
-      # ── 5. Create a new branch for this batch of stories ───
+      # ── 5. Create a new branch for this batch ───────────────
       - name: Create stories branch
         id: branch
         run: |
@@ -108,8 +98,6 @@ jobs:
           git push origin "$BRANCH"
 
       # ── 6. Open the Pull Request ─────────────────────────────
-      # GitHub emails you automatically when a PR is opened.
-      # You'll see the full story list in the PR description.
       - name: Open Pull Request for review
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -120,4 +108,4 @@ jobs:
             --head "${{ steps.branch.outputs.branch }}" \
             --title "📰 Stories for Review — $TIMESTAMP" \
             --body-file pr_body.md \
-            --label "stories" || echo "PR already exists or no changes — skipping"
+            --label "stories" || echo "No changes to stories — skipping PR"
