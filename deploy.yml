@@ -1,0 +1,66 @@
+# ══════════════════════════════════════════════════════════════
+# Culture & Pulse — STEP 2: Deploy on Approval
+# ══════════════════════════════════════════════════════════════
+# Triggers ONLY when you merge a stories PR into main.
+# Deploys the updated site to GitHub Pages automatically.
+# You never need to touch this file.
+# ══════════════════════════════════════════════════════════════
+
+name: "🚀 Deploy Site"
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'stories.json'             # only deploy when stories change
+      - 'culture-and-pulse.html'   # or when you update the site itself
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Build the site folder ────────────────────────────
+      - name: Prepare site files
+        run: |
+          mkdir -p _site
+          cp culture-and-pulse.html _site/index.html
+          cp stories.json _site/stories.json
+          echo "Site files ready:"
+          ls -lh _site/
+
+      # ── 3. Deploy to GitHub Pages ────────────────────────────
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Deploy to GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+
+      # ── 4. Summary ──────────────────────────────────────────
+      - name: Print deploy summary
+        run: |
+          echo ""
+          echo "══════════════════════════════════════════════"
+          echo "  ✅  Culture & Pulse — LIVE"
+          echo "  🌐  ${{ steps.deploy.outputs.page_url }}"
+          echo "  📰  $(python3 -c "import json; d=json.load(open('stories.json')); print(str(len(d['stories'])) + ' stories, ' + str(len(d['ticker'])) + ' ticker headlines')")"
+          echo "══════════════════════════════════════════════"
