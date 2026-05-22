@@ -372,15 +372,7 @@
       cursor: default;
     }
     .dyk-card::before {
-      content: '?';
-      position: absolute;
-      top: -14px; right: 14px;
-      font-family: var(--font-disp);
-      font-size: 110px;
-      color: var(--gold);
-      opacity: .05;
-      line-height: 1;
-      pointer-events: none;
+      content: none;
     }
     .dyk-card:hover {
       transform: translateY(-4px);
@@ -905,7 +897,7 @@
   <div class="hero">
 
     <!-- FEATURED STORY — replace img-ph-featured with <img src="your-image.jpg" alt="..."> -->
-    <article class="hero-featured reveal">
+    <article class="hero-featured reveal" onclick="window.open('#','_blank')" style="cursor:pointer" data-link="#" id="heroFeatured">
       <div class="img-ph-featured ph-note" data-note="Replace with featured image">C&amp;P</div>
       <div class="hero-featured-body">
         <span class="tag tag-culture">Culture</span>
@@ -925,7 +917,7 @@
     <aside class="hero-sidebar">
       <div class="sidebar-lbl">Top Stories</div>
 
-      <article class="story-card reveal">
+      <article class="story-card reveal" onclick="window.open('#','_blank')" style="cursor:pointer">
         <div class="story-card-ph sc-ph1"></div>
         <div class="story-card-body">
           <span class="tag tag-sports">Sports</span>
@@ -934,7 +926,7 @@
         </div>
       </article>
 
-      <article class="story-card reveal">
+      <article class="story-card reveal" onclick="window.open('#','_blank')" style="cursor:pointer">
         <div class="story-card-ph sc-ph2"></div>
         <div class="story-card-body">
           <span class="tag tag-news">Policy</span>
@@ -943,7 +935,7 @@
         </div>
       </article>
 
-      <article class="story-card reveal">
+      <article class="story-card reveal" onclick="window.open('#','_blank')" style="cursor:pointer">
         <div class="story-card-ph sc-ph3"></div>
         <div class="story-card-body">
           <span class="tag tag-history">Legacy</span>
@@ -1410,7 +1402,7 @@
           ${excerpt ? `<p class="event-excerpt">${excerpt}</p>` : ''}
           <div class="event-meta">
             <span>${story.date}${src ? ' · ' + src : ''}</span>
-            <span class="read-more">Read →</span>
+            <a href="${story.link}" target="_blank" rel="noopener" class="read-more" onclick="event.stopPropagation()">Read →</a>
           </div>
         </div>
       </article>`;

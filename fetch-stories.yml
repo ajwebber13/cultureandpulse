@@ -1,0 +1,112 @@
+# ══════════════════════════════════════════════════════════════
+# Culture & Pulse — STEP 1: Fetch Stories for Your Approval
+# ══════════════════════════════════════════════════════════════
+# Runs on schedule → fetches RSS → writes stories.json →
+# opens a Pull Request with a formatted story preview →
+# GitHub emails you to approve or reject.
+#
+# APPROVE → Merge the PR → site deploys live
+# REJECT  → Close the PR → next run fetches fresh stories
+# ══════════════════════════════════════════════════════════════
+
+name: "📰 Fetch Stories for Review"
+
+on:
+  schedule:
+    - cron: '0 5 * * *'    # 12am EST (UTC-5) — midnight refresh
+    - cron: '0 14 * * *'   # 9am EST  — morning stories
+    - cron: '0 23 * * *'   # 6pm EST  — evening stories
+  workflow_dispatch:        # Manual trigger from Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  fetch-and-review:
+    runs-on: ubuntu-latest
+
+    steps:
+      # ── 1. Checkout ─────────────────────────────────────────
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ── 2. Python setup ─────────────────────────────────────
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # ── 3. Run monitor.py (no AI) ───────────────────────────
+      - name: Fetch RSS and generate stories.json
+        run: python monitor.py --no-ai
+
+      # ── 4. Build a readable PR description ──────────────────
+      - name: Generate story preview for PR
+        run: |
+          python - << 'EOF'
+          import json, pathlib
+
+          data  = json.loads(pathlib.Path("stories.json").read_text())
+          ts    = data.get("generated", "")[:16].replace("T", " ")
+          lines = []
+
+          lines.append(f"## 📰 Culture & Pulse — Stories Ready for Review")
+          lines.append(f"*Generated: {ts} UTC*")
+          lines.append("")
+          lines.append("---")
+          lines.append("")
+          lines.append("### ✅ Approve → Merge this PR")
+          lines.append("### ❌ Reject  → Close this PR (next run fetches fresh stories)")
+          lines.append("")
+          lines.append("---")
+          lines.append("")
+          lines.append("## Current Events Grid (4 stories going live)")
+          lines.append("")
+
+          for i, s in enumerate(data.get("stories", []), 1):
+              lines.append(f"### {i}. [{s['tag'].upper()}] {s['title']}")
+              lines.append(f"> {s['excerpt']}")
+              lines.append(f"📅 {s['date']}  |  🔗 [{s.get('source', 'Source')}]({s['link']})")
+              lines.append("")
+
+          lines.append("---")
+          lines.append("")
+          lines.append("## Ticker Headlines")
+          lines.append("")
+          for h in data.get("ticker", []):
+              lines.append(f"- {h}")
+
+          pathlib.Path("pr_body.md").write_text("\n".join(lines))
+          print("PR body written.")
+          EOF
+
+      # ── 5. Create a new branch for this batch ───────────────
+      - name: Create stories branch
+        id: branch
+        run: |
+          BRANCH="stories/$(date -u '+%Y-%m-%d-%H%M')"
+          echo "branch=$BRANCH" >> $GITHUB_OUTPUT
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b "$BRANCH"
+          git add stories.json
+          git commit -m "stories: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push origin "$BRANCH"
+
+      # ── 6. Open the Pull Request ─────────────────────────────
+      - name: Open Pull Request for review
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          TIMESTAMP=$(date -u '+%b %d, %Y — %H:%M UTC')
+          gh pr create \
+            --base main \
+            --head "${{ steps.branch.outputs.branch }}" \
+            --title "📰 Stories for Review — $TIMESTAMP" \
+            --body-file pr_body.md \
+            --label "stories" || echo "No changes to stories — skipping PR"
