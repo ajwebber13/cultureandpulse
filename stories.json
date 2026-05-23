@@ -1,79 +1,85 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-05-23T15:04:00.555670+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "Alabama State makes huge comeback against UAPB",
+    "Proposed Federal Legislation Aims to Modernize Infrastructure at HBCUs",
+    "Fisk University AD Valencia Jordan named HBCU Athletic Conference Athletic Director of the Year",
+    "The $120 million HBCU gift from Reed Hastings and Patty Quillin that reached students first",
+    "Top HBCU Choirs 2026",
+    "Letters: Mayor Brandon Johnson can’t claim progress when it’s invisible to the Black community",
+    "‘A weight lifted:’ How Black students find community at college",
+    "Madison’s new Center for Black Excellence and Culture aims for cultural shift",
+    "In the News: Supporting Better Mental Health in the Black Community, One Stylist and Barber at a Time",
+    "Robert Woodson, Leader of the Black Conservative Movement, Dies at 89",
+    "WNBA players with the most points in a single game",
+    "WNBA 2025 Playoffs Bracket",
+    "2026 WNBA GM Survey: 42 Questions Ahead of the 30th Season",
+    "Paige Bueckers playing better than ever this year, moving up WNBA record books",
+    "2025 WNBA Schedule: How to Watch With Sling",
+    "LGBTQ creativity, culture on display for DC Black Pride's ‘New Black Renaissance'",
+    "Connecting Black culture, music, and community with the built environment",
+    "Black struggle in music: From slavery to calypso and hip-hop",
+    "Rock and roll | History, Songs, Artists, & Facts",
+    "Black Culture and Music Festivals Across New York State"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "Alabama State makes huge comeback against UAPB",
+      "excerpt": "Alabama State makes huge comeback against UAPB HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORS1ScTNpbVJfemJhdkpuV1Nidzd5ckxUMXUwQy1HMFpuUkZyWmphb2VUTXhOdG8xNnkxOWNFeEt2MHYzWDhFNzZMT18xQjZIYS1RX3BHZ092ZnZ6TkhEalpKdlBuNlJqR0VCMGJOZm42ZWVxV3ViY3Flb1ZhRkhXNU9EcmtHZy11OGc?oc=5",
+      "date": "May 23, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Proposed Federal Legislation Aims to Modernize Infrastructure at HBCUs",
+      "excerpt": "Proposed Federal Legislation Aims to Modernize Infrastructure at HBCUs The Journal of Blacks in Higher Education",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeV9hOU1CX3R1elBpc2d1c3o3NE5RZWt4QTJ2ZTRQazZNOTR1QWdTbkdkejUxWElmTGZINUFTNDI1QXdIWXYxZFNUZGJiRHZ4UjY5MDZrNERkcWdzRkQ5Z0pzNS0ybkR6OUxIVzhGaFdVYmpjWXhsZVg0amNaQ0ZJOWw5Y3ZGbWUzVDF6R1VGbGNBMmpNbTVPZjNwREM?oc=5",
+      "date": "May 22, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Fisk University AD Valencia Jordan named HBCU Athletic Conference Athletic Director of the Year",
+      "excerpt": "Fisk University AD Valencia Jordan named HBCU Athletic Conference Athletic Director of the Year The Tennessee Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZ19CblVxakM3UFQzaE9vOElNRmk4ZC1tUWh1dTYyUUJ0T2g3SnUyWkkwTU9DWmNYa1U3cmlHazd5RGpQanJWWlZ6WEUwMXZhX0FfTmhHYlcxRFZwYU1vMHFUQ2pFT2E4eWFwTklwRjJmN0RxNFNUZ09nNU9YSlh2X3dVZURXb1BpLVl6XzJnWkd4emxMbkF2NzVEODJTbmxNU0JPQ0NtUjRtWnljZUplcDQ1WU9jS3gzOGc?oc=5",
+      "date": "May 22, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "The $120 million HBCU gift from Reed Hastings and Patty Quillin that reached students first",
+      "excerpt": "The $120 million HBCU gift from Reed Hastings and Patty Quillin that reached students first The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYUZMU0hpdVV0RWxyVzM5OGd5OHBjWjQwb0kySmhDd2xEejVnRW1ZeVIwd0VzUjZnSVFmYXMwSkVhTTV3THozS09KT2VSbU81RkQ1aVRnRnJTUkUxR1JIa2xXVXBMdWtPQ19saHpoWEdfdEMtZ3dOVzFWdVVDLXBiYUx3UWh5bmFINVRNVjBMaFFBaUVjRi00dUgyS0tqZHR6QUh5RUNXdmluTXJYWUp0M1ljbkd1MXBlNXpVbzkyNjdzal9QcEt2c0Z3WjhKLXczVllPd21fRXpwSlRRM1dYQWgwSmprTHBmb3hXMVVyY1dMZFXSAfgBQVVfeXFMTUtqcTVYcXJlRFFPcWdmbFdRdHduQWhMc0RWLVZYa0FkUnYyeUowU1FwejNtb2VCY1pxOThYX0tsbURoRlJHTThJNUYyYzVobC1xVmtfUlJMQTRvQjdpUnN3WC02Z3FFNVcxYy14MEhPUjBHUndDQVA1TnFTamVlcXQyZkZ0UnpURWV0ZlYtZXdSczdvM0s3bDdMQzJuR3RLVkZ2dXZXTElmLUIyMHppZ083YWpCeVVuczlhaWJWVnEtN3BUc1U1VFNvckJjMjhUT1dxZFNGU2dLVWc2Si1FTWFuTjhwNVE5U1dLUTRZcXhjdEtkS1pMT3c?oc=5",
+      "date": "May 23, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
       "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
+      "title": "Thurgood Marshall Nominated to Supreme Court",
+      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history.",
       "person": "Thurgood Marshall"
     },
     {
-      "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
-      "person": "Dr. Martin Luther King Jr."
-    },
-    {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1856",
+      "title": "Preston Brooks Attacks Charles Sumner on Senate Floor",
+      "text": "South Carolina congressman Preston Brooks savagely beat anti-slavery Senator Charles Sumner with a cane on the Senate floor — a moment that crystallized the brutal reality of pro-slavery politics.",
+      "person": "Senator Charles Sumner"
     }
   ]
 }
