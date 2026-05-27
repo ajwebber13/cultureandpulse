@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-05-27T17:21:11.424687+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "Students Selected to 2026 HBCU Fellows Program presented by Wells Fargo",
+    "HBCU lands second McDonald’s All-American",
+    "Remembering Charlie Neal: The Voice Who Brought HBCU Sports To BET",
+    "Sam Puryear Named 2025–2026 HBCU Coach of the Year as Howard Golf Continues Historic Rise",
+    "HBCU brings football games back to campus after an 80-year absence",
+    "An early settlement of Black farmers still forms a community in Alachua County",
+    "A Black community fled a Virginia island. Reclaiming their history opened old wounds.",
+    "In mayor's race to represent LA, this activist thinks Black views matter",
+    "AC Boise honors Abby Black as Community Impact STAR",
+    "Pflugerville community advocates push for preservation of Black historical community",
+    "Celebrate Black Music Month with Illinois Soul",
+    "Roots Picnic: How It Started vs. How It’s Going",
+    "SAVE THE CULTURE: Choosing Less than 25 Black Artists to Represent the “Best” of Black Music Is Nearly Impossible",
+    "Connecting Black culture, music, and community with the built environment",
+    "Tuma Basa: From Spotify to YouTube, making space for Black culture on the global stage",
+    "Detroit Development Fund Marks 25 Years of Fueling Black Business Growth Across Detroit",
+    "Free Grants and Programs for Small Business",
+    "36 Small-Business Grants for Minorities",
+    "Connecticut Black entrepreneurs cite barriers in navigating business in new report",
+    "The 'Great Wealth Transfer': A $3 trillion opportunity for Black business owners is on the horizon"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "Students Selected to 2026 HBCU Fellows Program presented by Wells Fargo",
+      "excerpt": "Students Selected to 2026 HBCU Fellows Program presented by Wells Fargo Atlanta Falcons",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemZjbkxRTldZS3ZhVEhma2o5SmtvMEJmTEpObWptZzdqSFNXVWhTZ1hoVUlvbk80TjZTRDIwdDVmcGlYVzVKZGNvNk43cXJ2bjkzaWpnczdtTzF3N2sxVlFkV2lfQjllSmZuOTk1QjV2QWNaeFBJRDNxZ0w4ZVhoQ0tkRWVkR2ZoMW1QWGN0dGMySU5JRnBDblRPSzh2UHgxX3ByTzFUaXAwVFE?oc=5",
+      "date": "May 27, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "HBCU lands second McDonald’s All-American",
+      "excerpt": "HBCU lands second McDonald’s All-American HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQjF2WVVweG5xWElsTHFZNFY5UWpDSTU0T3NrVmJSay1aWmxsYll5YnVyZUY3VTJWQ3FUZWRMbFFETmxlc0tWM01IWTd4TmFQeTVIV05ucEd6ajlTNzRMMFdJQ095NmJGYk9XM1Q2OVZ3eXFxZVpGeU1BT1c0aFZvYUd2R1R1RWFxbnlkQUo5X0NCZjJvZFhr?oc=5",
+      "date": "May 27, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Remembering Charlie Neal: The Voice Who Brought HBCU Sports To BET",
+      "excerpt": "Remembering Charlie Neal: The Voice Who Brought HBCU Sports To BET bet.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnJkaWZsNER6NzhQeVdVanF3VWRaLVFpX3dyLWpHcFp6cm9pZGxLMWZ6cERxYkJUVlZrdHBtNjk0TWRuY2RFTE9lOXpvanlPVXpVVXhrQUs4X05PT2ZpVTFVT25Semhzd1Z5TUg1QVZ5Y2tBVkNCT2hudTgwdEQ4N3VZTGZ5aHdwLTJQM3J4eUQwS1VrTnRtWFRmOVVRblNQVXc?oc=5",
+      "date": "May 26, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Sam Puryear Named 2025–2026 HBCU Coach of the Year as Howard Golf Continues Historic Rise",
+      "excerpt": "Sam Puryear Named 2025–2026 HBCU Coach of the Year as Howard Golf Continues Historic Rise The Dig at Howard University",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZmpJYlVjbC1MY2RYemg4RUZEN0JFNmRIODNrY2VjMDduMkpGTnd4bVBfZ1ktQ0tSQTI1YlptNllVblFSQl8tWG5ZN1Fsa084em8yOTl0NlhUYThCUlpKYzlUb2dlaS11MzZPb1Y2cUtIc1c3ZlhXY2EzXzBqNndIb1lMMDdRTlJYX0dUYUFobjY4ajFWQTZKajZOSDhRUTg0UFZUbGZXQ3VSQTc1cFB2MzV2TXowT0g0?oc=5",
+      "date": "May 26, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
