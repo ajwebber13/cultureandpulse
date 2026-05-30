@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-05-30T23:53:02.463986+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "HBCU drops women’s soccer program adds track programs",
+    "Carter Named HBCU Freshman Women's Golfer of the Year",
+    "OP-ED: Why HBCU college campus visits made me feel like I belonged",
+    "Students Selected to 2026 HBCU Fellows Program presented by Wells Fargo",
+    "Charlotte lawmaker reintroduces HBCU infrastructure bill",
+    "Understanding High Blood Pressure: Key Facts for Black Communities",
+    "Black Men Are Taught to Survive, Not Heal",
+    "The race to save the history of Weed's Black community",
+    "Plaque unveiled honoring park that welcomed Black children during segregation",
+    "Organ donation in the Black community: One man’s story waiting for a kidney",
+    "Who has the most triple-doubles in WNBA history? Key stats",
+    "Paige Bueckers' WNBA debut jersey sells for record $64,720",
+    "Wings' Paige Bueckers' jersey from WNBA debut in 2025 sells for record price at auction",
+    "Hailey Van Lith Waived by Connecticut Sun, Top Landing Spots for 2025 WNBA 1st-Round Pick",
+    "WNBA 2025 Playoffs Bracket",
+    "Roots Picnic: How It Started vs. How It’s Going",
+    "SAVE THE CULTURE: Choosing Less than 25 Black Artists to Represent the “Best” of Black Music Is Nearly Impossible",
+    "Connecting Black culture, music, and community with the built environment",
+    "Black Culture and Music Festivals Across New York State",
+    "Black struggle in music: From slavery to calypso and hip-hop"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "HBCU drops women’s soccer program adds track programs",
+      "excerpt": "HBCU drops women’s soccer program adds track programs HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSTFOSDc2UTNaVVFFc3VOQmQ0X19uWHdKbGllcmNqb2VrRVY4RDJtUjR3N0UzTzA5SHRMVFozQUpEVDZYRG42dFlCRFhhaG05QnhKMVFOLV9RYW0taDlHS0hYaEF0NXlid3FRTXVXREFEZFlfV3RLZHB1XzQ3eDY4N0hWSXJlZXlhOTcyRWJxcUNhUQ?oc=5",
+      "date": "May 30, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Carter Named HBCU Freshman Women's Golfer of the Year",
+      "excerpt": "Carter Named HBCU Freshman Women's Golfer of the Year North Carolina Central University Athletics",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZTZwdmNodFF2UVlmZGVpZFlZdTEwaXBLZDhxVFhxTjNoZ1l4TjR5VlE5d1J6UFhuaXYtRUlRcE96MGJNOEpvUTloUDB1R2l0VXZlQWFPS1MtRGVvMEtUMmpwamdSOFZXOGxNekNzR2RiNDBzTVNnUHVJVzI4TkxHS2pTQ1VzRGVpaUQyMjdyejRUSTZtTUU5NDU1VHUzdjBo?oc=5",
+      "date": "May 29, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "OP-ED: Why HBCU college campus visits made me feel like I belonged",
+      "excerpt": "OP-ED: Why HBCU college campus visits made me feel like I belonged New York Amsterdam News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGt5Q0RGaEpfMjZJWEVyU2lLUlRWLWZyczlCalJhMGVZZkI3c2hYMFFGU3Z6cHFpblQySmd5RzVwR1B5dk4zYlRMYk9aREpfM0VJbUhJdzZjZnI5WndnaXNqZ1JwU0poZGs2VEpVU05ZenNYRk9DUE81QWFNSDByM1pGMkEwSTFfTWV5VDMwb25ER3BRWjdMWU11eXllTVZkU0J2Uw?oc=5",
+      "date": "May 28, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Students Selected to 2026 HBCU Fellows Program presented by Wells Fargo",
+      "excerpt": "Students Selected to 2026 HBCU Fellows Program presented by Wells Fargo Atlanta Falcons",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPemZjbkxRTldZS3ZhVEhma2o5SmtvMEJmTEpObWptZzdqSFNXVWhTZ1hoVUlvbk80TjZTRDIwdDVmcGlYVzVKZGNvNk43cXJ2bjkzaWpnczdtTzF3N2sxVlFkV2lfQjllSmZuOTk1QjV2QWNaeFBJRDNxZ0w4ZVhoQ0tkRWVkR2ZoMW1QWGN0dGMySU5JRnBDblRPSzh2UHgxX3ByTzFUaXAwVFE?oc=5",
+      "date": "May 27, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
