@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-06-16T18:27:55.153786+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "Rushdan Era Begins at Delaware State",
+    "HBCU News - QF forms three new study-abroad partnerships with US universities",
+    "Ohio’s oldest private HBCU expanding to address student housing crunch",
+    "Motown Records Launches New Legends Internship Program For HBCU Students",
+    "Preds, Black Leadership Collective Impacting Nashville Through Positive Collaborations",
+    "New immersive mural resurrects a key piece of Garland’s Black history",
+    "Swords into Plowshares reaches out to Black residents, unhoused community for input on recasting Robert E. Lee statue into new public art",
+    "Black-Owned Businesses And Community Organizations Welcome World Cup Fans During Juneteenth Weekend",
+    "Idaho Black Community Alliance supports local businesses and nonprofits with Juneteenth celebration",
+    "Trump has not extended White House invitation to 2025 WNBA champion Las Vegas Aces, team says - The Athletic",
+    "Aces reportedly did not receive invitation to celebrate 2025 WNBA championship at White House",
+    "No White House visit for Aces: Team confirms no invitation after 2025 title",
+    "Dallas Wings sign veteran guard Sug Sutton",
+    "WNBA 2025 Playoffs Bracket",
+    "'Joyful Juneteenth' brings music, spoken word and Black culture to Missouri History Museum",
+    "Larry Jackson Exposed Why Black Culture Is One of Music’s Most Valuable Economic Forces",
+    "Three Fort Worth Black cultural institutions unite for Juneteenth celebrations",
+    "13 Juneteenth Events Celebrating Black Freedom, Joy, And Culture Across America This Week",
+    "(BPRW) The Soundtrack of Black Culture: Celebrating Black Music Month",
+    "Facebook Group Grows Into Multimillion-Dollar Black Business Hub In Evanston, Illinois -"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "Rushdan Era Begins at Delaware State",
+      "excerpt": "Rushdan Era Begins at Delaware State HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YZzJDU0IyampMUUZLcnJBdlRLSlhaTV9aWUtPWm1QUmI4QWZDaFdmTGR4dWVHTnRuYU9Uems5c1ZMT1ZKX0tXQllaNENTSlZWTjRCSjNpRHNwRXpIZ1dHa3k1R2xXdXQ0V2xjbGoweU5nY2NaQUN0TFZURVM?oc=5",
+      "date": "Jun 16, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "HBCU News - QF forms three new study-abroad partnerships with US universities",
+      "excerpt": "HBCU News - QF forms three new study-abroad partnerships with US universities Prairie View A&M University",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDVJOTJtMmlVY3FmQ1pFY3plQnQ0VlpXVzJ0WDRZQlgtMi0wUTlENjR3aU1DWUtnT1pzdGdRYnk2M21Ea3N2QS1ZeWpJVERqQ2NGUEd2Zzdza2NIWmlvTGY0M1FZRGYyWmJDeDlFUWloMVEtU0JhbHdNRGZzenJXdmE3dWdpeVpubGMxWThCVzMwV0Nva2JBTnhjTU1Iam4tcWFGVm93?oc=5",
+      "date": "Jun 4, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Ohio’s oldest private HBCU expanding to address student housing crunch",
+      "excerpt": "Ohio’s oldest private HBCU expanding to address student housing crunch Spectrum News",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUEJKRWp6eDB5UFEyQ0VWMmJKWWN4YkNPMjZYbnJWc04td0VreHdOeTZUWHZaT3ozZEhCT2QwWEhsZlo4RVZNUmplYVhubGNRaEtfbTRoOUpmTE9qc05sUVR5ekliOFM2cER0VjVnT2RNeGR1VnRFZ3pIdmZZN2hVWDZMWjN0NHRraldJem5PNmFWeWxxRGt3bWlTSGg0WnhBVmdUb1NteUh0bGlSdDFqd0VySmxRVjF0UTBVXzNXaVVBdw?oc=5",
+      "date": "Jun 13, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Motown Records Launches New Legends Internship Program For HBCU Students",
+      "excerpt": "Motown Records Launches New Legends Internship Program For HBCU Students Ratings Game Music",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV2V1cmkwNGNwM2ZuZ0Z5ZzBQVHJNUHg4X1F1MGlWR0NGUms5RlBUcFMtZ1JwWTVMdmEzeHZZQ3ZVU2VHc0NpeDFxekZoUlJwS003eFRzQ1h0VzIwU19GOHg3cjl1TWJ0a3ptMXNReHRuNnFLQjZ3OXRURXYwZndUWFFFLUY?oc=5",
+      "date": "Jun 16, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
