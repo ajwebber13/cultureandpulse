@@ -1,79 +1,85 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-06-17T16:55:50.721676+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "Southern University becomes first Louisiana HBCU to offer chemical engineering bachelor's degree program",
+    "Urban One, PlayVS Unveil Name, Look For HBCU Esports Venture",
+    "HBCU conference adds multiple women’s sports championships",
+    "HBCU News - QF forms three new study-abroad partnerships with US universities",
+    "Ohio’s oldest private HBCU expanding to address student housing crunch",
+    "Beyond Displacement: How Seattle's Black Community Is Preserving Identity And Connection",
+    "Federal Government Seeks to Halt Evanston’s Landmark Reparations Program for Black People",
+    "Jefferson School and Black Business Expo join forces to celebrate and uplift Black community members - C-VILLE Weekly",
+    "Juneteenth sparks questions of financial freedom in Black community",
+    "Los Angeles County parks set to host Juneteenth celebrations honoring Black culture",
+    "WNBA announces big change beginning in 2027",
+    "No White House visit for Aces: Team confirms no invitation after 2025 title",
+    "Trump has not extended White House invitation to 2025 WNBA champion Las Vegas Aces, team says - The Athletic",
+    "Wheaties Celebrates WNBA Star A’ja Wilson’s Full-Court Impact with New Limited-Edition Box",
+    "Aces reportedly did not receive invitation to celebrate 2025 WNBA championship at White House",
+    "The artists that make TN a powerhouse for Black music | Opinion",
+    "Bay Area Juneteenth celebrations to honor Black culture through music, art and food",
+    "Juneteenth celebrations to honor Black culture through music, art, and food",
+    "Larry Jackson Exposed Why Black Culture Is One of Music’s Most Valuable Economic Forces",
+    "Three Fort Worth Black cultural institutions unite for Juneteenth celebrations"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "Southern University becomes first Louisiana HBCU to offer chemical engineering bachelor's degree program",
+      "excerpt": "Southern University becomes first Louisiana HBCU to offer chemical engineering bachelor's degree program WBRZ",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYzBkVnlqOC1iejNBUndPUzZwT2stSlN4bHNhMGMtNGQ5ZUxxOWw2YmF1a0ptOUFpVldkQWFBWVBDMTNySTc1SVdSN1dpbWM3SjlrOXBEcEkzR0ZEUzFMUWlMWmFLejJGTzZOQmhYMXBOSFpBbHZuRUZGdjlsQkUySE5YNUp2TFVnWWdDdml0TzkzdGxjZTBlRmUwX3AwZEEzV00zMDVGZG1hcEJrZUx6SWh4Vld5MEgtcUNDdENQb1h2M0VmdFI2ajM4MA?oc=5",
+      "date": "Jun 17, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Urban One, PlayVS Unveil Name, Look For HBCU Esports Venture",
+      "excerpt": "Urban One, PlayVS Unveil Name, Look For HBCU Esports Venture Radio & Television Business Report",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdVI2U1piY1BiR0xJRVZXQlpJVnBXdTR5OGdLZ0t4SzNiZTZTYkFPX2lsNHI1ckFrVGk1eldYY3VtTk4yYjU3UlZRT2M1a1NxZXBiZDFhdldfUDdXZmtlSm1zZDNId3BIbkZaNl8wTUE4MkU0VjRfWVJPUkJGRkd4Qw?oc=5",
+      "date": "Jun 17, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "HBCU conference adds multiple women’s sports championships",
+      "excerpt": "HBCU conference adds multiple women’s sports championships HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW5fZ2QyV0RpSjU0ejRXYjRBTmtUT2w0b0E0dVRrM1lyM1RKejd4QjJsWmJLVExqOUx2cnZPalJoLTZyUUxpMl92TlRhN0ZPWEQ1ZUlpUkJzTVQ4TUktRWxHRzJMUl9lS3otODQtWUZsdVpBMjlEbGFOLThQSVJwQjZ2eFpmbTVzbnN3bHptWEhhZDE4NElteQ?oc=5",
+      "date": "Jun 16, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "HBCU News - QF forms three new study-abroad partnerships with US universities",
+      "excerpt": "HBCU News - QF forms three new study-abroad partnerships with US universities Prairie View A&M University",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcDVJOTJtMmlVY3FmQ1pFY3plQnQ0VlpXVzJ0WDRZQlgtMi0wUTlENjR3aU1DWUtnT1pzdGdRYnk2M21Ea3N2QS1ZeWpJVERqQ2NGUEd2Zzdza2NIWmlvTGY0M1FZRGYyWmJDeDlFUWloMVEtU0JhbHdNRGZzenJXdmE3dWdpeVpubGMxWThCVzMwV0Nva2JBTnhjTU1Iam4tcWFGVm93?oc=5",
+      "date": "Jun 4, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "2021",
+      "title": "Juneteenth National Independence Day is signed into law by President Joe Biden, …",
+      "text": "Juneteenth National Independence Day is signed into law by President Joe Biden, to become the first federal holiday established since Martin Luther King Jr. Day in 1983.",
+      "person": "Juneteenth"
     },
     {
-      "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
-      "person": "Dr. Martin Luther King Jr."
-    },
-    {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1865",
+      "title": "Juneteenth — The Last Enslaved People Are Freed",
+      "text": "Union soldiers arrived in Galveston, Texas and announced that all enslaved people were free — two and a half years after the Emancipation Proclamation. June 19th became Juneteenth.",
+      "person": "General Gordon Granger"
     }
   ]
 }
