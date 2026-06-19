@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-06-19T00:20:21.633971+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "Buffalo Bills sign former HBCU star after UFL heroics",
+    "Toyota's partnership with ESPN Events pivotal for major HBCU football & band events",
+    "Two Grambling baseball players make 2026 HBCU Swingman Classic rosters - The News-Star",
+    "Toyota expands HBCU partnership ahead of Alabama A&M football matchup",
+    "MLB Central reveals HBCU Swingman Classic rosters",
+    "‘The Hill was a safe place:’ Remembering Arlington’s early Black community",
+    "Juneteenth in Santa Cruz: Celebrating the Black community",
+    "How Tennessee redistricting mirrors a historic split in Nashville’s Black community",
+    "Patchwork 250: How the Magic City Medical Society transformed healthcare for Black communities",
+    "‘Rich history here.’ EKY’s Black community celebrates Juneteenth with education, art",
+    "Wilson, Bueckers Lead After First Returns of Fan Voting in WNBA All-Star Voting 2026 Presented by Ally",
+    "Wheaties Celebrates WNBA Star A’ja Wilson’s Full-Court Impact with New Limited-Edition Box",
+    "WNBA announces big change beginning in 2027",
+    "Aces reportedly did not receive invitation to celebrate 2025 WNBA championship at White House",
+    "Trump has not extended White House invitation to 2025 WNBA champion Las Vegas Aces, team says - The Athletic",
+    "Bay Area Juneteenth celebrations to honor Black culture through music, art and food",
+    "The artists that make TN a powerhouse for Black music | Opinion",
+    "Juneteenth celebrations to honor Black culture through music, art, and food",
+    "Larry Jackson Exposed Why Black Culture Is One of Music’s Most Valuable Economic Forces",
+    "Three Fort Worth Black cultural institutions unite for Juneteenth celebrations"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "Buffalo Bills sign former HBCU star after UFL heroics",
+      "excerpt": "Buffalo Bills sign former HBCU star after UFL heroics HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNQ21YX0FtbFg4Yk9WVVJfRDRwRjMtZnQzcS1hLWd1Y0lRaXNkRWZ5TWVyVTd0VjFnenBDdkVOLXc4eWhteFktUUlRX201Sk1tUm53c1Y4VWo2cWxUelNUOXo5N2JQMHJMNmtmNzB0d2FGX09fV2lHUnJNRUdKOVB6bFlmTE16S3I2THZGcHZHQnpqbjA?oc=5",
+      "date": "Jun 18, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Toyota's partnership with ESPN Events pivotal for major HBCU football & band events",
+      "excerpt": "Toyota's partnership with ESPN Events pivotal for major HBCU football & band events Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTUxrLVpKQWRTR3RPYWJOUWZpeEpabkdBYkY4Qlk5UzBkZ192Y1dIRGR4U3NXWDFlb1c0bjh5WS1xa1VSWEtWcXhJWEY0UTBYd3g5enl0QnpyU2RZWDJrY0M1UzVIWXlQM0N1aTUtUjdoTndUMGx1b3FMSkNVYnVrV2dmWW8?oc=5",
+      "date": "Jun 18, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Two Grambling baseball players make 2026 HBCU Swingman Classic rosters - The News-Star",
+      "excerpt": "Two Grambling baseball players make 2026 HBCU Swingman Classic rosters The News-Star",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQOEQ4bTNmTkVjWE5fZTgyZXAyUGlCRzV2N1R2V2JwZHRVcG9PVVdvSlpmdUtnZ1piV3FJNUFNajZWS01vRUlldDM1QVNPSTJUUkRoTEdkRXg2ZWUtRjhGVVpRNDZEZW5JcG9iclhzYUdEVXAyZWx4TFNlS0VlT2t5VEs5YzRtaEFGVEFCUS1DRlA5U1NHMnBseURVUjZ2TmtZYUxxTGRzSEwtVWN3bU1jTlNoTmpVVVhzOV9icjFWQ0RySm4yZERQSzRqYnZTUEJ0dGdrQlozNU8zOTR4ZkE?oc=5",
+      "date": "Jun 18, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Toyota expands HBCU partnership ahead of Alabama A&M football matchup",
+      "excerpt": "Toyota expands HBCU partnership ahead of Alabama A&M football matchup rocketcitynow.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTnQzUWJKZGFrWVhxTGhkcGFERXR3eHg4M01HajVCajdJNUNmQmZPU0ZLUG9jSTZTQXNHTkR2UE94Rk5nNFY5RFJGNDNoejJ6d1VIb1NKNFZrR0RmdHUwSlUzR1RRNks4bjRkTGs4clJxeVZNUWVyWDFSclVVdFk5X2JtVFZxRzVOZzg5YXp4NTFBMVdUUG1hbHRGak9scmdYNUloTFpvc3FzQXhScl9XU09uVUFlNnh5R2F2TEhhNHNJWDhudEQtMVVzSUVzWjhneDJVZGJwLVRZUmREQmphYlVFQW1iM3FUTmVZMmRaZHlhTERnbUQ4Rk1Paw?oc=5",
+      "date": "Jun 18, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1964",
+      "title": "The Civil Rights Act of 1964 is approved after surviving an 83-day filibuster in…",
+      "text": "The Civil Rights Act of 1964 is approved after surviving an 83-day filibuster in the United States Senate.",
+      "person": "Civil Rights Act of 1964"
     },
     {
-      "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
-      "person": "Dr. Martin Luther King Jr."
+      "year": "1865",
+      "title": "Over two years after the Emancipation Proclamation, slaves in Galveston, Texas, …",
+      "text": "Over two years after the Emancipation Proclamation, slaves in Galveston, Texas, United States, are officially informed of their freedom. The anniversary was officially celebrated in Texas and other states as Juneteenth. On June 17, 2021, Juneteenth officially became a federal holiday in the United States.",
+      "person": "Emancipation Proclamation"
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1862",
+      "title": "President Abraham Lincoln signs the Territorial Slavery Act of 1862, which prohi…",
+      "text": "President Abraham Lincoln signs the Territorial Slavery Act of 1862, which prohibits slavery in all current and future United States territories.",
+      "person": "Abraham Lincoln"
     }
   ]
 }
