@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-06-26T23:54:53.422148+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "New HBCU Partnership Speeds Path to Law School",
+    "HBCU band adds influential director after federal case",
+    "HBCUs use World Cup excitement to grow support for their soccer teams",
+    "Birmingham HBCU alumni event adds mixer, picnic and brunch",
+    "HBCU Alumni Weekend to celebrate Black-owned businesses in Birmingham",
+    "Black women's non-profit awards grants to local Southern groups as part of joy-filled tour",
+    "Creating Community and Joy: Meow Mixxx Collective Centers Black Women Who Love Women",
+    "Black Health and Wellness Association holds event to provide healthcare options in North Omaha",
+    "COMMENTARY: 50 Years Later, is ‘Roots’ on the Wrong Side of History?",
+    "Retro Indy: For 55 years Indiana Black Expo has showcased community",
+    "WNBA viewership hits high largely without Clark, but with caveats",
+    "WNBA expands regular season schedule to 50 games",
+    "When will WNBA All-Star voting results be announced?",
+    "Indiana man charged after being accused of stalking WNBA player Sophie Cunningham",
+    "Aces reportedly did not receive invitation to celebrate 2025 WNBA championship at White House",
+    "Baltimore’s AFRAM celebrates 50 years of Black culture, music and community",
+    "Collingswood Juneteenth Celebration Honors Black Culture, Inclusion and Multigenerational Fun",
+    "Bay Area Juneteenth celebrations to honor Black culture through music, art and food",
+    "The artists that make TN a powerhouse for Black music | Opinion",
+    "Lowcountry marks Juneteenth with music, culture and community celebrations"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "New HBCU Partnership Speeds Path to Law School",
+      "excerpt": "New HBCU Partnership Speeds Path to Law School Inside Higher Ed",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMzZ3SmUzZi1oa2g0VERRcV9YNnVESlZXOUFya3I0RTJXTUwxaWs1OW5OSFFqanNkbDQyS19Ocm9NTVVGanFMcDRfSjVDQlF2TlhJa1ZfQl84Ui1FLUVKaHV2c1hKMGFvYmxReGU2NzVWVWJsSTRuRGRJS2VHLWx5WGEzemJyUG1lNkdCekVfa2x4dmFSdUItSVU4MWZZaldoMDRaaHVseFNzSnd6NWhTNVV1UURmc0lrSEdlM1N5c0xKVGM?oc=5",
+      "date": "Jun 26, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "HBCU band adds influential director after federal case",
+      "excerpt": "HBCU band adds influential director after federal case HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRWtvUmhoWUVkYUliS09KdGNZMmpDdDlrd1V5SUJoUl9QQXNQOVBwQTU5a1RFZlFlaFFJTnJaT0MxMHRESlZPYUxVRXl0QnBmMGtIUEZOcjQ3Z1RZSm1MUW5HSjQ1OS1tM1kybm42YjhMYjBlZ09YYnp0bDZ0bUtYS28xOFljaXM1RTlmOWNrN0VJcjFR?oc=5",
+      "date": "Jun 26, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "HBCUs use World Cup excitement to grow support for their soccer teams",
+      "excerpt": "HBCUs use World Cup excitement to grow support for their soccer teams NPR",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRHZzSFpwOUJ1UUxFTXpPdlhpMmI5aG0zNmlVUVIzNFJ5V2RORjN6T2d3ZTZWNHhkUERKaHhZVC10NjFPdmdLZExFdkl5QU55Wmh3dVh5V1dVN0d3RzljSEtBV3hSLXl6NzFIcmNCSHVlaGtXMjItV0I0YjMtQ0pJbVhONUlYb0pxTmNNUU1yODVHaW5Xb3pubE9wRHBpdnhHOFJEUXpndHJkZFNYWV9TcHcxMkc?oc=5",
+      "date": "Jun 26, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Birmingham HBCU alumni event adds mixer, picnic and brunch",
+      "excerpt": "Birmingham HBCU alumni event adds mixer, picnic and brunch WVTM",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44OWhWdTVaWGpEYS1rT0lPNFBaZ0RCSzN1bjlUOWlETVkyeVp2aTlGMjVRMVRDcmVLS01kX3NqYldiX3hFRlZNUnpFUFpIVm4wS1RvTUF2ZFpNY0hUX2dHQ0lOR1VPemhPSkpiOWFrZm9PQkpmT2VOUXBR?oc=5",
+      "date": "Jun 26, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
