@@ -1,79 +1,85 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-07-01T16:28:05.123500+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "HBCU baseball legend Roger Cador dies",
+    "Critics decry HBCU’s plan for an on-campus data center",
+    "Jussie Smollett dating famed HBCU alumnus",
+    "The Rising HBCU Enrollment: 15 Largest Black Schools Ranked by Size",
+    "HBCU Football Club hopes the 2026 FIFA World Cup amplifies competitive soccer at Black colleges",
+    "Black Leaders Describe What America Needs for a Better Future",
+    "Kansas City’s Ghanaian community gears up as Black Stars bring World Cup to town",
+    "‘Chosen family’ strengthens Black LGBTQ+ community in the nation’s capital",
+    "Chicago Black Gay Men's Caucus builds community, advances advocacy",
+    "Black bear spotted in Greene County",
+    "How to watch Liberty vs. Aces in WNBA Commissioner’s Cup Championship for free",
+    "Trump has not extended White House invitation to 2025 WNBA champion Las Vegas Aces, team says - The Athletic",
+    "WNBA players to receive 2025 revenue-sharing payments | The IX Basketball",
+    "Aces reportedly did not receive invitation to celebrate 2025 WNBA championship at White House",
+    "A’ja Wilson and Napheesa Collier Unanimously Selected to 2025 All-WNBA First Team",
+    "The artists that make TN a powerhouse for Black music | Opinion",
+    "Bay Area Juneteenth celebrations to honor Black culture through music, art and food",
+    "Baltimore’s AFRAM celebrates 50 years of Black culture, music and community",
+    "12 Notable Artists from the Harlem Renaissance and Their Enduring Works",
+    "Juneteenth celebrations to honor Black culture through music, art, and food"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "HBCU baseball legend Roger Cador dies",
+      "excerpt": "HBCU baseball legend Roger Cador dies HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yVzN6V2dCaGpIQi1hRFRGRTdkTUp3cnQ4ZWVyallhWXY3S214SHJFV2kxUTNKQi1aUzlCc28xRlBDcG1makE5T0x3Ri1xM0M3YUZ6NHMtcWNLdnpENjQ2amJ2ZDh0VDA4Mk5Wekl1TWFHcUJmY2J2YlozbTU0Zw?oc=5",
+      "date": "Jul 1, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Critics decry HBCU’s plan for an on-campus data center",
+      "excerpt": "Critics decry HBCU’s plan for an on-campus data center MS NOW",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcHhqYVRwSU9JQ1ZNM0lnYV8xdG9YTjI4VGRYUUxpcU1mY0NjT1BNcHlQeFhON1dYSnFWcWF1M2xTSzI4eGVhSWt1TVRxNDBNQU5CWEl6VWpIUEZlNE1KZmg5UnpDZk8zOVo1S010aXBKR2prLWctT1RpMEFQTTNKb05pLWR2ZHl1bi1hQk9RcXRWck1oN004blloTzg?oc=5",
+      "date": "Jun 29, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Jussie Smollett dating famed HBCU alumnus",
+      "excerpt": "Jussie Smollett dating famed HBCU alumnus Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRll2ZlJCX25tYy1OSlprbm5JVzNFbk1TMklSV1BYRU11aGpGMU1kZllYVzR1b3NhMFh3OGpPSDlyQnB6elI4WTNpSEVmVE9GTnQ4UDI5eXRXUGNTUzNOZ3ptYklyUHlqc1FiZHBZMHJfMEpNeTFwbmtPSVFiaWlWdXI4QnRtOGk1WWFJLXFUU3pMck9URFU2SnV6bmdxeERBQ0N5cC1n?oc=5",
+      "date": "Jun 30, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "The Rising HBCU Enrollment: 15 Largest Black Schools Ranked by Size",
+      "excerpt": "The Rising HBCU Enrollment: 15 Largest Black Schools Ranked by Size The Root",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSlRLdngtX0l1YWRfeElxRHc2LWozWTA0eFB2MUVMR0FHYnN3SnJENHQtQ3ZSS0d6YXg2VEhjeWt6NWdpSUYydzdYU3hienFpeUVkMnBMeFF1ekRaT3VCSFJpcy16eXNpM0Y1NXlfRlJPeEotR2c3aURsaXZERi1KcXExdXR0aUF1X1RTTmpCQ0sxZHc?oc=5",
+      "date": "Jun 29, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1948",
+      "title": "Muhammad Ali Jinnah (Quaid-i-Azam) inaugurates Pakistan's central bank, the Stat…",
+      "text": "Muhammad Ali Jinnah (Quaid-i-Azam) inaugurates Pakistan's central bank, the State Bank of Pakistan.",
+      "person": "Muhammad Ali Jinnah"
     },
     {
-      "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
-      "person": "Dr. Martin Luther King Jr."
-    },
-    {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1863",
+      "title": "Slavery was abolished in the Dutch colony of Surinam, a date now celebrated as K…",
+      "text": "Slavery was abolished in the Dutch colony of Surinam, a date now celebrated as Ketikoti in independent Suriname.",
+      "person": "Surinam (Dutch colony)"
     }
   ]
 }
