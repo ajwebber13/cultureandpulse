@@ -1,79 +1,85 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-07-06T16:53:01.967543+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "HBCU Baseball MVP Detained by ICE Weeks After All-Star Honor",
+    "Why HBCU Stories Are Your Next TV Obsession",
+    "All about Lewis Business College, an HBCU with Indy roots",
+    "6 HBCUs Launch Course-Sharing Partnership",
+    "Harlem Globetrotters: Keith Dawkins on 100 Years of HBCU Roots and a Global Reinvention",
+    "Bordeaux, North Nashville produced generations of Black leaders",
+    "Forgotten Black church in Berkeley Springs may find new life after decades of neglect",
+    "The Black woman on the train did not look away. How much longer will we?",
+    "Unbound: ‘Freedom to Read’ Event Aims to Celebrate Black Voices, Community",
+    "Black-owned Georgia farmers market sees surge of community support after racist vandalism - WSB-TV",
+    "Bueckers, Wilson, Stewart, Clark Highlight Starters for 2026 AT&T WNBA All-Star Game",
+    "WNBA player rankings: The top 50 players in the league",
+    "Indiana Fever’s Aliyah Boston, Caitlin Clark and Kelsey Mitchell Named 2026 WNBA All-Star Starters",
+    "WNBA players to receive 2025 revenue-sharing payments | The IX Basketball",
+    "Aces reportedly did not receive invitation to celebrate 2025 WNBA championship at White House",
+    "How Black music shaped American culture: Miami artists reflect ahead of the nation's 250th",
+    "Live Music Collective Hosts Juneteenth on Commerce",
+    "Baltimore’s AFRAM celebrates 50 years of Black culture, music and community",
+    "The artists that make TN a powerhouse for Black music | Opinion",
+    "Bay Area Juneteenth celebrations to honor Black culture through music, art and food"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "HBCU Baseball MVP Detained by ICE Weeks After All-Star Honor",
+      "excerpt": "HBCU Baseball MVP Detained by ICE Weeks After All-Star Honor HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQXpwS1FYNnhDT0l6aVNfX1hDSjhWVjdUUHhzVFJ6OHlTWW5La0N6LWZFWlpPQkd5VzNFdXNyMDlXcEVLYXUzTTJ0RFFjcE03NHRERWRDLVNIZFRYUjFQNnA0VzB1MS1WSnljVHRocHYyRHJtaVpCbGVWMXhZX3pOUE1fdlRPNVpaTjE0SA?oc=5",
+      "date": "Jul 6, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Why HBCU Stories Are Your Next TV Obsession",
+      "excerpt": "Why HBCU Stories Are Your Next TV Obsession EBONY Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45eW1QWGQtRDFPRmZIZWJka1RoYjlwUkdGb3djeEpRV25lR2FCSWNTbFgzTWluVDF1cDBkNEZQdk9nOUk3cXp0NmhzbUlTblg5YU1aNWp6WnpMUGtGYXA3M0hyT2tadFE5N1RDSEgySnVwN01VeUE?oc=5",
+      "date": "Jul 6, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "All about Lewis Business College, an HBCU with Indy roots",
+      "excerpt": "All about Lewis Business College, an HBCU with Indy roots Mirror Indy",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTHpFZlc3WGdxTGZNV08wZmFWUkNvcXFmZllsVnNncmJ1TDJwcUtEM3FaMTdlY2FYcDdRTXpiV0NqU3pybFJLZzhucmlHZl9LeDc0cEY3aXNWRW9lY1JtZGFHQzJnX09oeS1HS25NOENIbXJwMnVaOC1iZUJqaDFKVDMxUzQ4ZXk5Tm5fQlB3NDlEbnJ3Z0otaUFxYjFqNWFiTnhXREtB?oc=5",
+      "date": "Jul 6, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "6 HBCUs Launch Course-Sharing Partnership",
+      "excerpt": "6 HBCUs Launch Course-Sharing Partnership Inside Higher Ed",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQ1VtVkdLdllhdkhDdm9MM3d2NlU4OWEzT3dmdkV5bFkxRGpkYk41eENmd2FvU2pwbG1CazJ6S0kwX0JQaERWYmFrY0g0VWdsWTloTmVMYVNPT09WdGMwMVM2ZG9YcVhJY3B5eUdjalllN3dvZk1EUnpMZkhVWGZyb3dKUFdvUVBOeDlxdnl1SzZncFpnZGx3amxtSWxMRE03YUxycTVtRE9kbEU2dlJYcU9yeVVhdXJNUlE?oc=5",
+      "date": "Jul 2, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
-    },
-    {
-      "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
-      "person": "Dr. Martin Luther King Jr."
-    },
-    {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
+      "year": "1944",
+      "title": "Jackie Robinson refuses to move to the back of a bus, leading to his court-marti…",
+      "text": "Jackie Robinson refuses to move to the back of a bus, leading to his court-martial.",
       "person": "Jackie Robinson"
+    },
+    {
+      "year": "1827",
+      "title": "New York State Abolishes Slavery",
+      "text": "New York State's Emancipation Act took full effect on July 4, 1827, freeing all enslaved people in the state — including Sojourner Truth, who had been freed a year earlier.",
+      "person": "Sojourner Truth"
     }
   ]
 }
