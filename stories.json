@@ -1,78 +1,84 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-07-23T23:52:08.558880+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "HBCU introduces dress code, cell phone and attendance policies",
+    "Detroit HBCU celebrates 20 years with a 4-day event",
+    "Coahoma royalty represents College at national HBCU leadership conference",
+    "State audit says Ohio’s only public HBCU inaccurately charged students tuition and fees",
+    "Queen City HBCU Cookout Fundraiser To Boost Scholarships for Charlotte Students",
+    "Culture and community: Black Restaurant Week shines light on West African cuisine in Baltimore",
+    "Volunteer Work for Black Americans Pays Off By Helping Others and Building Portfolios - Milwaukee Community Journal -",
+    "Stephen A. Smith: Black community ‘suspicious’ about Nolan Wells’ death",
+    "Sports is a Vehicle, Leland Stein III on Detroit, Journalism, and Building Black Community",
+    "James Talarico pledges $25 million to win over Black voters in U.S. Senate campaign",
+    "ESPN's Holly Rowe continues telling WNBA's stories at All-Star Game in Chicago - Chicago Sun-Times",
+    "Indiana Fever asked to 'keep quiet' about 2025 harassment firing, former player says",
+    "2026 State Farm WNBA 3-Point Contest Participants",
+    "‘Pivotal’ Napheesa Collier Return to Lynx Lineup Should Terrify the Rest of the WNBA",
+    "Fudd, Mabrey, Howard among WNBA All-Star 3-point contestants",
+    "The sci-fi sensibilities of electronic trio Black Boboi",
+    "Black lands, Mexican bands: how a southern rural family built a Latino cultural hub",
+    "Community, culture and music celebrated at Indiana Black Expo Music Heritage Festival",
+    "Black Culture Festival returns to Parcel 5 with music, food and fun",
+    "Charlotte entrepreneurs on keys to long-term success"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "HBCU introduces dress code, cell phone and attendance policies",
+      "excerpt": "HBCU introduces dress code, cell phone and attendance policies HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFFvckYxb2YyV01Mc19rVHZnLTVxSURxVDdlclV1U0JSOGFwcVpWWTVvaWJ3WGRhdnJCMEtKV2FGdXlLOGktNV9kcjNRT3o2UGxKMUphZlZWbjdVa0wwV2s1VFBOWG9rbVV2cndhZXJvbmdDRVpaQUVrOVFNUFFZbjV3ZGlrd19jUTNpRmYwS05Lc0ZIZlRqb1hXa2NmQQ?oc=5",
+      "date": "Jul 23, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Detroit HBCU celebrates 20 years with a 4-day event",
+      "excerpt": "Detroit HBCU celebrates 20 years with a 4-day event ClickOnDetroit | WDIV Local 4",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGtXWjF4Rm1US0hpQVBPNnNwYjNfUFA1SmpKUThiVUVKNV96YTQ2OUVUeHQzRHlYbmk1WkkxYlFvUVFzUHJPajlxTDkzZDhQZkZadE5LaDNRSWxBOUdDQU1hR0tiRUlfbG5KTmZvTVdlYXhneUk1U0dNeWlrOUtrLXJ5a3hnT2Zra0ZkbmZFQk9CeDJXaXgxZGxvYy1GQUppUXYzaWw5TGY?oc=5",
+      "date": "Jul 23, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Coahoma royalty represents College at national HBCU leadership conference",
+      "excerpt": "Coahoma royalty represents College at national HBCU leadership conference coahomacc.edu",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WQ0R0UlM0SUszbWVvRE9tVVRMQ3R2RkR6cFkyMV9jN1BLQkliLXF4QjN2S19ZSmpjSDM1ZzY1QTdjdFFpc1VjWFl5dllnVThka2QzazEza2xKYXRJaGxDdHJKdHJnVi05Nllhd2g4ZnRXTC1XYWhJ?oc=5",
+      "date": "Jul 23, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "State audit says Ohio’s only public HBCU inaccurately charged students tuition and fees",
+      "excerpt": "State audit says Ohio’s only public HBCU inaccurately charged students tuition and fees Ohio Capital Journal",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbEstQXBYZTlJTUljZElJdng4dzdjX095XzdmVnJYSmE4dmNESEF3UE4wX3ZhdHFKVVJFVVRTSU9sS0NwQlFLNmJqXzROSjFnaGd5NmFxSE1BakdiSDVGTUZUdjc1ZVJQemxFX25DNEJyZXJWMlRnVlVGeTFtNE5CMS1ObDRjZkNwa1JDNjYwN3NSTUc1ZVdrdGFUSFBMb0E2Z0xHLWtiUm9SU0dQdE1acnA1MG9oaHF4RHBkTF9LUlFpMkRsTGoxRg?oc=5",
+      "date": "Jul 23, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
       "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "title": "Detroit Riots: In Detroit, one of the worst riots in United States history begin…",
+      "text": "Detroit Riots: In Detroit, one of the worst riots in United States history begins on 12th Street in the predominantly African American inner city. It ultimately kills 43 people, injures 342 and burns about 1,400 buildings.",
+      "person": "1967 Detroit riot"
     },
     {
-      "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
-      "person": "Dr. Martin Luther King Jr."
-    },
-    {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
+      "year": "1962",
+      "title": "Jackie Robinson becomes the first African American to be inducted into the Natio…",
+      "text": "Jackie Robinson becomes the first African American to be inducted into the National Baseball Hall of Fame.",
       "person": "Jackie Robinson"
     }
   ]
