@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-07-31T23:53:17.620095+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "Alabama A&M becomes first HBCU with uniform patch",
+    "'First ever' HBCU alumni network in western WMass",
+    "Forbes names Bowie State University top 5 for best HBCU with online degrees",
+    "Who Marches for HBCU Bands’ Graduation Success?",
+    "Local HBCU students react to Tuskegee University’s new ban on bonnets and du-rags",
+    "Urban League report says Trump administration is harming Black Americans' chances at American Dream",
+    "Talarico leads Paxton, draws strong Black support in Texas poll - Austin American-Statesman",
+    "Black community leaders rally for embattled SPD Chief Shon Barnes",
+    "How an 1876 massacre of Black men in South Carolina turned racial terror into political power",
+    "Black community organizations rally at Seattle City Hall, urge Mayor Katie Wilson to reinstate Chief Shon Barnes",
+    "Five players to watch ahead of Aug. 2 WNBA trade deadline",
+    "WNBA All-Star Game Draws 3.2 Million Viewers, Up 44% From 2025",
+    "13 Lesbian Basketball Couples Pulling the Ultimate Power Play",
+    "Friday TV Ratings 7/24/26: WNBA Three-Point Contest Slightly Down from 2025 but Still Among Night’s Top Offerings, Big Brother: Unlocked Collapses, Celebrity Jeopardy! Encore Leads",
+    "Angel Reese-Paige Bueckers’ punishment decision made by WNBA",
+    "Nubian Jam 2026: Celebrating Black Culture, Music & Community at Forest Park",
+    "Rochester’s Black Culture Festival at Parcel 5 wraps up with free music, vendors, and more",
+    "Gone But Not Forgotten: Black Celebrities We Lost in 2026",
+    "Community, culture and music celebrated at Indiana Black Expo Music Heritage Festival",
+    "Black Culture Festival returns to Parcel 5 with music, food and fun"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "Alabama A&M becomes first HBCU with uniform patch",
+      "excerpt": "Alabama A&M becomes first HBCU with uniform patch HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOVVUUzdXeUtsb05FWnZ0OFRLWExvVkQ4V0ZGSUUxNzJvRVdRckpiZWxkV3BydG90VHpOMGhzQnlvcGw1Uko5QnJBTWFoY3dXWjZTanJwZzc5WTRzTEU4N0ExNTlBVFprbTIyamtYR2pYRVhHeWp4U0I2ZzF5OWxxdkRmRmVJZHNaVUJRag?oc=5",
+      "date": "Jul 31, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "'First ever' HBCU alumni network in western WMass",
+      "excerpt": "'First ever' HBCU alumni network in western WMass Connecticut Public",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOd0pubVV1Mk95UnlFUG4yOHJQWV9md01BWU9WTGctQ09ER3MwUEdTUi1xd011cEFrbHdUNjBMWFlkQWsta3ZKbEx5WjVQUXZ0Ny1fVERLd05QMGpoZFF4N0ZuanFQdnJfdVZVUnBGbU81TGZ0OGFJdkd1eDF2NGhnZjNTUFNKR2xNdVNtMHlNVEsxQmJVWFE?oc=5",
+      "date": "Jul 31, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Forbes names Bowie State University top 5 for best HBCU with online degrees",
+      "excerpt": "Forbes names Bowie State University top 5 for best HBCU with online degrees DC News Now",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTDJzSFlTeVA5dW5VN1dJLTlEVkZXMlNIVE80S3QtVl9zR2FkRlktbWY0WkxuQUt6ZG1fSVhSOHpIeTl2UlFtVlAtWWFDZlBCSm9qcUtucldpOGxrdUEtYmgtSDMySTZ3Wkg5MElmTnlJNm81UXpQTFZHSWxXZjBUdEhZaDFWenZBTWZpcU01cldEem81VXdiaG51SHpHdFdPSm5odFBBSkNROTd0TWoxMXk2bjZ0Rk1VWUItV1BBam1oQXBZd2EyOXZfLWhRbUpDdjF5SjBXRnhTLXFaamw0RzcwSdIB6AFBVV95cUxOcGFNcXJCcnZ4QUNJdElwVWM2YjdxX3VDajhzdGVTVmlGMnpfdTZ0bDF2b0VCSzd0QWJYaGJ6OTNSVW9DUjNzdjhmVmlWSlc5UlJRM0ktZEVmNElsSHRMNXptY0E4TGVrVzVuNEhSTldkYnhHMkVIVlRSZWNtaUVLLUlWWXlpVy1yRUwtUkdELWdqeVp1V200d1pfQ3RhRjRRRV8teHd1UG5aWHRSb3c0VGhZWkZnZlhCelJFWXdnMUttSUFaSTRBTE0zaGQ4aWxQNmFCQmstMFQySWVXVEZyaDNtTThtbC1N?oc=5",
+      "date": "Jul 31, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Who Marches for HBCU Bands’ Graduation Success?",
+      "excerpt": "Who Marches for HBCU Bands’ Graduation Success? The EDU Ledger",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdWowblItaWJrN2xvX1FnSWZSTTBQNmtfZGxibTh6cUJrVWpZejVSNW9VRHNTN0I4cEZrYWZfZ25IVVFyN3BqeXI2SDBUTXJHSXZrdVJqenRLbTVoUDYxLUFZdHVCX0d2SzNpWVFFakZGZm1IcTZYQUNqb2ZFOTNmWEgzbDJkVzI3S2ExZ3hxQmlNRW91UEJ4cWZkZ0o?oc=5",
+      "date": "Jul 31, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
