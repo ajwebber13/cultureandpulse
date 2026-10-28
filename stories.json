@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-10-28T01:54:34.915254+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "US lawmakers closed their on-campus voting sites. HBCU students marched miles to vote anyway",
+    "I Am Back Beating the Drum for HBCUs",
+    "This Family's Multi-Generational HBCU Legacy Will Inspire And Motivate You",
+    "Kentucky State Football Climbs to No. 4 in HBCU Division II Coaches Poll",
+    "A Women’s HBCU Will Sell a Record-Smashing Aaron Douglas Painting",
+    "Pikesville seeks return of Black Aggie statue to historic cemetery - WBAL-TV",
+    "An interpretive sign honors a Black community displaced by eminent domain",
+    "Black Power Marketplace highlights Black-owned businesses in Rochester - 13WHAM-TV",
+    "Suicide is up among Black Americans. We need to talk about it.",
+    "Black Furrday is Back at the Humane Society of Broward County",
+    "Indiana Fever Guards Caitlin Clark and Kelsey Mitchell Named to 2026 All-WNBA First Team",
+    "The Caitlin Clark effect: Indiana Fever led WNBA searches in 42 states",
+    "Fans blast the WNBA after bizarre Game 6 decision",
+    "Bueckers, Wilson, Stewart, Clark Highlight Starters for 2026 AT&T WNBA All-Star Game",
+    "2026 WNBA GM Survey: 42 Questions Ahead of the 30th Season",
+    "The History Of Gospel Music: Why Is It Important To Black American Culture?",
+    "Boundless Life Music, Arts & Culture Festival to Debut in Park City June 25-26, 2027, Headlined by The Black Crowes and Caamp",
+    "How Black banjo players are changing Americana music",
+    "Festivals and Black Culture Events Worth the Trip This Fall in New York State",
+    "Dolly Parton Made an Undeniable Mark on Black Culture"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "US lawmakers closed their on-campus voting sites. HBCU students marched miles to vote anyway",
+      "excerpt": "US lawmakers closed their on-campus voting sites. HBCU students marched miles to vote anyway The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1dWYm1ZQ2hLTk1wVlZlMFZmVUhKWjljc1NaczFucEk0RXVFSkZ0czlvazdvcndkbUFRa2JvVXVnYUJ1Ujl5dWpFbUtyNk5DWV95RWRyMlpzYnI0RzI4YXZmWHBJRnNVUUx1NjdHcy0wTDN0ZFlIbjhxazFUVFFnR2EzUTk5X3c2X2hwNzdB?oc=5",
+      "date": "Oct 27, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "I Am Back Beating the Drum for HBCUs",
+      "excerpt": "I Am Back Beating the Drum for HBCUs Yonkers Times",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQZV9nWW9wcFY0TllmZ0pHWHY1ZGlYZ0NEQ0ljQ0JldHE5b19MRjJfMUFiVzdnWlVJMVBxdEtDMUxfaE9nakQydVpFVVUzS0JMN3dkcTFGVXdJa09QTUh3VFBYbXdNY1V3aUlBVUNMdw?oc=5",
+      "date": "Oct 27, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "This Family's Multi-Generational HBCU Legacy Will Inspire And Motivate You",
+      "excerpt": "This Family's Multi-Generational HBCU Legacy Will Inspire And Motivate You Essence",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYU9nb1hQaGsxNmlRd25qMjFLQXB4ZGsxUkFCSkpZeE9udzAwcE50MkNoaUNhVThnR2Zab0FSX3hYWG9naDJpTnRkZ0t5cWFSUVRqTFl5UUo1a1VTNnV1NXMwb1hUODNadjlBYTNyUUJ0d01jYkZFWGJ6YUxaNHBJSnhB?oc=5",
+      "date": "Oct 27, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Kentucky State Football Climbs to No. 4 in HBCU Division II Coaches Poll",
+      "excerpt": "Kentucky State Football Climbs to No. 4 in HBCU Division II Coaches Poll WKYT",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWVBZb1NqQ3FrMTY3emxDTDlzSDY5T29pbnllOGFQSHdfMWN0bVF4TXhRYjVqclVVU09qTGRxa09nVEJLYzhJd1pPd3R3RWNjOURQYi1GcDA1bzA0eEJLNXhKandEZXFfUl95T2otMjRZMzBPNXE3QkxrWVBObE14aDlIMVYwcXYyTEM4SXFaQnpnMnNWZzVZNDZlakhXOE3SAbMBQVVfeXFMUEliQngyTndlNkQzRG9JUmZjQnVmMHRYUC1hV0pEREptRkc0Q25oVm9XWGVyQ2xCQVZyb2dzeDM4Y2VjR3FySHpCVDRjcWFXdzRuZGJzTFRnSVdVTU5mSmZ5WFBsR0ZxdlppLUxzV29JelJraGhvQ3pYR1pTWFJRU1JwaTNSdXJCZEFYMjEtRVJpWWhEejNQbnhMajNDNjJISUlCSkpBdmtIbE9lNHZvUjliU1E?oc=5",
+      "date": "Oct 27, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
