@@ -1,79 +1,79 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-11-01T01:39:08.761731+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "HBCU football game ends with 5-0 score",
+    "Delaware State rallies to stun Norfolk State in Philly HBCU battle",
+    "Mayor Parker and others celebrate importance of One Philly HBCU Weekend",
+    "Producer Will Packer Stumps to Get Out the Vote and Launch a Private HBCU Fundraising Campaign",
+    "One Philly HBCU Classic returns with expanded lineup and college opportunities",
+    "It’s a different world from where you come from",
+    "With midterms approaching, census reveals national sentiment of Black community",
+    "Black community leaders urge support for Public Education’s 2026 Operating Referendum",
+    "Winter Park wants redevelopment to honor legacy of Black community leader DePugh",
+    "El-Sayed answers questions about his relationship with black community",
+    "WNBA enters Finals with one of its top playoff audiences since ’99",
+    "WNBA draft lottery is set for Nov. 15, with Houston and Toronto tied for best odds at No. 1 pick",
+    "A Complete List of All 60 Out Gay Players in the WNBA",
+    "Valkyries tickets command eye-popping prices, four times higher than 2025 WNBA Finals",
+    "WNBA Finals champions, history: Full past winners list by year, Finals MVPs, most titles",
+    "Afropunk and the rise of Black alternative rock culture",
+    "Dolly Parton Made an Undeniable Mark on Black Culture",
+    "Charlotte Soul Festival returns to celebrate Black culture and art",
+    "Festivals and Black Culture Events Worth the Trip This Fall in New York State",
+    "From Afrobeats to hip-hop, Afro Plus Fest is making the DMV a home for Black culture"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "HBCU football game ends with 5-0 score",
+      "excerpt": "HBCU football game ends with 5-0 score HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaU3ExTE5HdzlCeGF0a1Zrcm1NQXJ4QV9ZLV9IbnZKb2toRmdOT1BBVVIxUHg2M01Hb0t0cmp1MXAzNEdyTTJvLUVoY1lYY1dzVlNqRy1Ba3dzM3U0YkRMMGtBTnNibEswRVZUSWcwSHAwbUs0c1h1MlBONWtyaXM?oc=5",
+      "date": "Nov 1, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "Delaware State rallies to stun Norfolk State in Philly HBCU battle",
+      "excerpt": "Delaware State rallies to stun Norfolk State in Philly HBCU battle HBCU Sports",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczJHdEtHODd2SVNrdDFvT01XRlBZMWs5OHIxYzVhaW5wLU16bnhEdmlGTGtudS1KMlI5MHMyNG52bkc5SEQ5RVhwem9NZ3lJUmJrelkxX0NaUFVKM2Jjejdpc3BvOUtSQTR2ZE9XeUcxMVpZSTRIZndfTktFaTI3NkQxcmtsY2pMdkMyVW5XNTk3VFFrQ25mTF9QbHJJWjVNd0FV?oc=5",
+      "date": "Oct 31, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Mayor Parker and others celebrate importance of One Philly HBCU Weekend",
+      "excerpt": "Mayor Parker and others celebrate importance of One Philly HBCU Weekend NBC10 Philadelphia",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTEUtS1EwUVduelhTNHZLR2haMTg3SDFOb0QwYU5oaGdKc2JIMTlrWkVhNzZ2WTJHbzY2VkE4M2p0N3lVcUs1dWFkMnNtYWw4S1UxUmZ4MDd6X1I1aFFLQkJEMWFaTHduQ1h0QVh0UE1ldG1MTGVzZk13cjBObUZNVjlCLUZYQzR4aU1IaVBiNzFGaF9fNlMzc3hJRWYtLVptSUVhcHNMVHlqRTRPSXJGRW9HWE9iczVFaFhyMG5EWWVHVXh3ay1nSdIB0AFBVV95cUxOWko0X2Z0WWhTSE5XeGdncHNqNnNPV0tSbVJLSld3bmlUZEpPRDU5aFVhRXZLX1R4RGJ0T2VUWmp0TnFwRGNHWWNjNk05RFlBSVE3dmZMYjBhTUNla1czMU1STm1RSHAtMUhmSmt4enBCSkRWWEtTSXZkM0VKTlFRODc1dURsei05WDFTR0NVa3g1Y3FlVHhxWENMemJPY1JVR2oxRHB1ZGZiVFlYRjBDVndCeGFPa012RTVZSkQyS1FhbDJDZXBSN3gyNUpGZExU?oc=5",
+      "date": "Oct 31, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "Producer Will Packer Stumps to Get Out the Vote and Launch a Private HBCU Fundraising Campaign",
+      "excerpt": "Producer Will Packer Stumps to Get Out the Vote and Launch a Private HBCU Fundraising Campaign Variety",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOWsyckMtZ0VuM2NZdkRmWXo0eXFaeDJLU1d2YkNjTXE0RnNaWWdCcVJ1WENtZWFtWkFjMU9MTkkwUDBjTlNQY3VhMUlNejg0dmk1Y29NWUlvVjlzXzFaaG9xTG1qX1ZRdDlyZTdGSXJBcG10ajRpZzZSUHhoeGtfQm5oRHQ2OTNVZWFQZnVKaDVRM09X?oc=5",
+      "date": "Oct 31, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
-    },
-    {
-      "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
-      "person": "Dr. Martin Luther King Jr."
-    },
-    {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1983",
+      "title": "MLK Holiday Signed Into Law",
+      "text": "President Ronald Reagan signed legislation establishing Martin Luther King Jr. Day as a federal holiday, to be observed on the third Monday of January each year.",
+      "person": "President Ronald Reagan"
     }
   ]
 }
