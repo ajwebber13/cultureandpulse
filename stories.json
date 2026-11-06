@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-11-06T02:57:32.012936+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "HBCU Students Are Turning Their Anger Into Action This Election",
+    "HBCU band world taking note of rising program in NC",
+    "HBCU Chris-tal ball Week 10: The HBCU postseason picture becomes clearer",
+    "HBCU legend Doug Williams gets Pro Football Hall of Fame nod once again",
+    "Kweku's Cypher: HBCU of the NORTH",
+    "Community energy: a bright opportunity for the Mountain State",
+    "Black Wall St. Announces 2nd Annual Legacy Weekend Celebrating Black Economic Excellence, Wealth & Community",
+    "Capers Funnye wasn’t a ‘Black Jew’ — he was a good Jew",
+    "Suicide is up among Black Americans. We need to talk about it.",
+    "‘He made Black Jews not invisible anymore; he was the bridge’",
+    "Timeline: How the Valkyries won the WNBA Finals in just their second season",
+    "Caitlin Clark Says WNBA Is 'Just Scratching the Surface' Amid Expansion Boom",
+    "Morgan Jones 2025 Stats per Game - WNBA",
+    "2026 WNBA GM Survey: 42 Questions Ahead of the 30th Season",
+    "2026 WNBA Schedule Release: Key Dates and What to Know",
+    "Festivals and Black Culture Events Worth the Trip This Fall in New York State",
+    "Dolly Parton Made an Undeniable Mark on Black Culture",
+    "How Black banjo players are changing Americana music",
+    "Charlotte Soul Festival returns to celebrate Black culture and art",
+    "From Afrobeats to hip-hop, Afro Plus Fest is making the DMV a home for Black culture"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "HBCU Students Are Turning Their Anger Into Action This Election",
+      "excerpt": "HBCU Students Are Turning Their Anger Into Action This Election Capital B News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYZnhaUmNfbnQwRHNmMlhaaF9rQ0lqdjNkU2hsOFZOcjVsTE0xbWM4RklsWFdQOFlTUkhEcXA2dmpFLXBDSE9vallZbzB3cl9qemtMN2M4aGtHTVltemJfRkUxVWtKdXFxeFJEVzRnRXdHUTJnSTlB?oc=5",
+      "date": "Nov 3, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "HBCU band world taking note of rising program in NC",
+      "excerpt": "HBCU band world taking note of rising program in NC HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVFdYVGNfS0xjcEJOSFNmbl9IbUkxQkVSZF8yYlluSzN5ZzYxcjNzb3hsN3NRWU9RMU1EQVpNMEU1cllHb09xNTlmUjAtQlhleU5LTHE1YkhsQTlMUUlIR2lLNXdUSWw0WTdubUpHd2VlOWR4ZzdFRi04YzM4RXRYNm8tRkc1a285bXd5bGViV1c?oc=5",
+      "date": "Nov 5, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "HBCU Chris-tal ball Week 10: The HBCU postseason picture becomes clearer",
+      "excerpt": "HBCU Chris-tal ball Week 10: The HBCU postseason picture becomes clearer HBCU Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2hWM1Z4UTZLNk9HVXRZOWJtc19ZSmR1ejJYVzJ0U0dZLXhhT3UzUGRpbjVILWJBVHBPZTNWem44d3pHNUJpNjJzUmRKc3dRSThOZkR1YzRiVzJ6dHl1N3VCS1hjUzJhWHU4bE04dUFxQ0RWNWp3czhIRTVPcGphQmlNM0RqZ1VsYUhIQUtKbEswVE9OQkFmVk1RYzZKUEJRbmpCQ3RITkFzUQ?oc=5",
+      "date": "Nov 5, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "HBCU legend Doug Williams gets Pro Football Hall of Fame nod once again",
+      "excerpt": "HBCU legend Doug Williams gets Pro Football Hall of Fame nod once again Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSmJXdGo4VGgwMkFrNlhPQjdsM3F0X2VxeDRjRTZ4aUw3eHYwQzNBT1lwcWY2WE9wOTVqWGpUQXhvZGVHbU8wS2VYaGw0MFRSZklib0d3U3NwcmNnMXN0Rjk1aTc2Wm9zd1pKTVBkWUhxSjVNQlBkN0VOYzBmUERkanVyZ25hdw?oc=5",
+      "date": "Nov 5, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
