@@ -1,79 +1,91 @@
 {
-  "generated": "2025-05-22T00:00:00+00:00",
+  "generated": "2026-11-06T20:17:25.390009+00:00",
   "ticker": [
-    "WNBA 2025 Season Tips Off With Record Viewership Numbers",
-    "Howard University Receives Historic $100M Endowment Gift",
-    "New Orleans City Council Pushes Back on AG Murrill Over Calvin Duncan Clerk Appointment",
-    "Black Entrepreneurs Raise $2.4B in Q1 2025 \u2014 Highest Quarter on Record",
-    "LSU Women's Basketball Signs No. 1 Ranked Recruiting Class Nationally",
-    "Juneteenth Declared Official Paid Holiday in Three More States",
-    "Afrobeats Surpasses K-Pop as Fastest-Growing Genre in Streaming History",
-    "South Carolina WBB and Dawn Staley Land Historic NIL Partnership With Nike"
+    "HBCU women’s basketball team loses by 109 points to LSU",
+    "HBCU Students Are Turning Their Anger Into Action This Election",
+    "Fayetteville State students join HBCU movement for Nolan Wells",
+    "How HBCU Grads Made Their Mark on the 2026 Midterms",
+    "From FAMU to Spelman, HBCU Alumni Make History in the Midterms",
+    "Black nationalism gains renewed attention amid growing threats to racial equality",
+    "Black Mountain chooses fresh slate with Williams, Richardson and Milton",
+    "Black Wall St. Announces 2nd Annual Legacy Weekend Celebrating Black Economic Excellence, Wealth & Community",
+    "White House goes after intelligence community for 'black box' spending",
+    "After redistricting, a Black community in Louisiana faces a future without a champion in Congress",
+    "WNBA Finals: Record crowds, merchandise sales and biggest audience since 1999",
+    "Caitlin Clark Says WNBA Is 'Just Scratching the Surface' Amid Expansion Boom",
+    "WNBA Teammates Paige Bueckers & Azzi Fudd Split Over a Year Ago, Clear Up Narrative Surrounding Draft",
+    "2026 WNBA GM Survey: 42 Questions Ahead of the 30th Season",
+    "Morgan Jones 2025 Stats per Game - WNBA",
+    "B-Sharp Music Club championed Black artistry, culture in N.O.",
+    "Black struggle in music: From slavery to calypso and hip-hop",
+    "Charlotte Soul Festival returns to celebrate Black culture and art",
+    "Dolly Parton Made an Undeniable Mark on Black Culture",
+    "Festivals and Black Culture Events Worth the Trip This Fall in New York State"
   ],
   "stories": [
     {
-      "title": "HBCU Athletics Sees 40% Spike in National TV Deals for Fall 2025",
-      "excerpt": "Historic broadcast agreements signal a major shift in how HBCU sports are valued on the national stage.",
-      "link": "#",
-      "date": "May 22, 2025",
+      "title": "HBCU women’s basketball team loses by 109 points to LSU",
+      "excerpt": "HBCU women’s basketball team loses by 109 points to LSU HBCU Gameday",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXFXdnpXLVZJSW5xQzVjQ2liSDJRVVY1VDcwMlpnZUh6eEdKS19qQXlSWHFpdW5WOF9SZklHczgzMi1tVzVESmtHc09LMUZDaUhJN09FSGVjcW1QRmkzaU1VMi1TRlE4YUg1bnFwU2NYSWZlMzJITWpzdjd0OU9jMVotTjVTbUFSY2lnYkZ3ZGV1Vjln?oc=5",
+      "date": "Nov 6, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
       "color": "ev-ph1",
-      "source": "Culture & Pulse"
+      "source": "\"HBCU news\""
     },
     {
-      "title": "AG Liz Murrill vs. New Orleans City Council: What the Calvin Duncan Fight Means for Justice Reform",
-      "excerpt": "The standoff over the clerk appointment has become a flashpoint for criminal justice reform advocates across Louisiana.",
-      "link": "#",
-      "date": "May 21, 2025",
-      "thumbnail": null,
-      "tag": "Community",
-      "tagClass": "tag-community",
-      "color": "ev-ph2",
-      "source": "Culture & Pulse"
-    },
-    {
-      "title": "South Carolina Women's Basketball Lands No. 1 Recruiting Class for Third Straight Year",
-      "excerpt": "Dawn Staley's program continues to set the standard for elite recruiting and championship culture.",
-      "link": "#",
-      "date": "May 20, 2025",
+      "title": "HBCU Students Are Turning Their Anger Into Action This Election",
+      "excerpt": "HBCU Students Are Turning Their Anger Into Action This Election Capital B News",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBYZnhaUmNfbnQwRHNmMlhaaF9rQ0lqdjNkU2hsOFZOcjVsTE0xbWM4RklsWFdQOFlTUkhEcXA2dmpFLXBDSE9vallZbzB3cl9qemtMN2M4aGtHTVltemJfRkUxVWtKdXFxeFJEVzRnRXdHUTJnSTlB?oc=5",
+      "date": "Nov 3, 2026",
       "thumbnail": null,
       "tag": "Sports",
       "tagClass": "tag-sports",
-      "color": "ev-ph3",
-      "source": "Culture & Pulse"
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     },
     {
-      "title": "Afrobeats Becomes Fastest-Growing Genre in Streaming History, Surpassing K-Pop",
-      "excerpt": "Driven by diaspora audiences and cross-genre fusion, African-rooted music is now a global force reshaping the industry.",
-      "link": "#",
-      "date": "May 19, 2025",
+      "title": "Fayetteville State students join HBCU movement for Nolan Wells",
+      "excerpt": "Fayetteville State students join HBCU movement for Nolan Wells The Fayetteville Observer",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSDdPNS0tOUo5bzlGZ0h3WGRYT3RVUVF0a0VsVmNvYUY5OWZzOFR1V1hFT3dUOXJzelg1d3djNTJlOXA3b0UyVGZacElrbHZHV1QyWi04RGdFLU4xM25nWWRCbVE5XzliZHZITl9ac3g2dWNVS19MUzFYWDVMcE8teThHd090ZWJ6bWxJWGhabklqRnp1V0NwdE8weV8tcVlJMHVuVFNGRU9nS3YwRkczXzlZRVpiSzJUQXRzajFraE1tcUtSZTFVMQ?oc=5",
+      "date": "Nov 6, 2026",
       "thumbnail": null,
-      "tag": "Culture",
-      "tagClass": "tag-culture",
-      "color": "ev-ph4",
-      "source": "Culture & Pulse"
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
+    },
+    {
+      "title": "How HBCU Grads Made Their Mark on the 2026 Midterms",
+      "excerpt": "How HBCU Grads Made Their Mark on the 2026 Midterms The Root",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0gtY0NNQjAxUXlaazN3WU1SV2JGTkhCeDBjQklVUDluUTBadUl1NWR2c2RsMEpBMm1tUlFReWFmdXFvOVprZ3B1Z3dPVURhQmJmRXotYm45MzFJanBQOEVPVTN4RUw4X1FyZE5MaEgyMjEzSkFSUWI3SkxsdnpZS0hJV0hLZHhjeFYxQ241WQ?oc=5",
+      "date": "Nov 6, 2026",
+      "thumbnail": null,
+      "tag": "Sports",
+      "tagClass": "tag-sports",
+      "color": "ev-ph1",
+      "source": "\"HBCU news\""
     }
   ],
   "did_you_know": [
     {
-      "year": "1967",
-      "title": "Thurgood Marshall Nominated to the Supreme Court",
-      "text": "President Lyndon B. Johnson nominated Thurgood Marshall to the U.S. Supreme Court, making him the first African American Justice in the nation's history. Marshall had previously argued Brown v. Board of Education.",
-      "person": "Thurgood Marshall"
+      "year": "1947",
+      "title": "Jackie Robinson Breaks Baseball's Color Line",
+      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era.",
+      "person": "Jackie Robinson"
     },
     {
       "year": "1963",
-      "title": "March on Washington \u2014 'I Have a Dream'",
-      "text": "Over 250,000 people gathered at the Lincoln Memorial for the March on Washington, where Dr. Martin Luther King Jr. delivered his historic 'I Have a Dream' speech \u2014 one of the most powerful moments in civil rights history.",
+      "title": "March on Washington",
+      "text": "Over 250,000 people gathered at the Lincoln Memorial where Dr. Martin Luther King Jr. delivered his 'I Have a Dream' speech.",
       "person": "Dr. Martin Luther King Jr."
     },
     {
-      "year": "1947",
-      "title": "Jackie Robinson Breaks Baseball's Color Line",
-      "text": "Jackie Robinson took the field for the Brooklyn Dodgers, becoming the first Black player in Major League Baseball's modern era and permanently changing the face of American sports.",
-      "person": "Jackie Robinson"
+      "year": "1955",
+      "title": "Rosa Parks Refuses to Give Up Her Seat",
+      "text": "Rosa Parks was arrested in Montgomery, Alabama after refusing to give up her bus seat, launching the Montgomery Bus Boycott.",
+      "person": "Rosa Parks"
     }
   ]
 }
